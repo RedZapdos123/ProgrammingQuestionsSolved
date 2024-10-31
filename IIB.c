@@ -1,7 +1,4 @@
-//Name: Mridankan Mandal
-//Roll Number: IIB2024017
 #include <stdio.h>
-
 void ques1(){
     int a, b, c;
     //Taking Input

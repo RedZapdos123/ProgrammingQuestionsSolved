@@ -31,7 +31,7 @@ int main()
         }
     }
     
-    //Printing the words shifted in a cyclic manner
+    //Printing the words in a swapped manner
     int n = (sizeof(words)/sizeof(words[0]))-1;
     char temp[255];
     for(int k = 0; k < s/2; k++){

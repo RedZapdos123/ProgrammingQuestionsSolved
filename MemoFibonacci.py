@@ -1,3 +1,7 @@
+import sys
+#Increased the recursion depth or the stack size
+sys.setrecursionlimit(13000)
+
 #The function to calculate the (n+1)th fibonacci number
 #using memorization
 
